@@ -17,7 +17,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/replit/replit-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/hostgator/hostgator-ar21.svg"></code>
 
 ### 💻 Software, tools and platforms
 
