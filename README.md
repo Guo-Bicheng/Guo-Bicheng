@@ -24,7 +24,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/hackerone/hackerone-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/bugsnag/bugsnag-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
 
