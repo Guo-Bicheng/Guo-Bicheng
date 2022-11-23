@@ -1,5 +1,5 @@
  ## Skills : 
- ### 👨‍💻 Programming and markup languages
+ ### 👨‍💻 Programming languages
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code> 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
