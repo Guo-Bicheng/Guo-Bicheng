@@ -7,7 +7,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
-<code><img width="10%" src="https://www.pngitem.com/middle/hihJibT_c-and-c-logo-hd-png-download/"></a></code>
+<code><img width="10%" src="https://www.pngwing.com/en/free-png-nwvsu"></a></code>
 
 
 
