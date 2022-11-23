@@ -1,12 +1,10 @@
  ## Skills : 
-
  ### 👨‍💻 Programming and markup languages
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code> 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"></a></code>
-
 
 
 ### 🗄️ Databases and cloud hosting
@@ -19,7 +17,7 @@
 
 ### 💻 Software and tools
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
