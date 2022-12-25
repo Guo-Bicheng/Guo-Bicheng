@@ -1,4 +1,4 @@
- ## Skills : 
+
  ### 👨‍💻 Programming languages
 
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code> 
